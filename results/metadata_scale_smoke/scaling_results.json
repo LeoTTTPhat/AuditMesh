@@ -1,0 +1,67 @@
+[
+  {
+    "clean_verified": 1,
+    "commit_time_ms": 0.40562497451901436,
+    "commitment_size_bytes": 64,
+    "memory_peak_kb": 1.29296875,
+    "method": "csv",
+    "num_events": 10,
+    "proof_size_bytes": 0,
+    "seed": 7,
+    "throughput_eps": 24653.31433760431,
+    "trial": 0,
+    "verify_time_ms": 0.056833960115909576
+  },
+  {
+    "clean_verified": 1,
+    "commit_time_ms": 10.396250057965517,
+    "commitment_size_bytes": 264,
+    "memory_peak_kb": 128.7587890625,
+    "method": "signed_digest",
+    "num_events": 10,
+    "proof_size_bytes": 0,
+    "seed": 7,
+    "throughput_eps": 961.8852898154452,
+    "trial": 0,
+    "verify_time_ms": 1.4635419938713312
+  },
+  {
+    "clean_verified": 1,
+    "commit_time_ms": 0.3503751941025257,
+    "commitment_size_bytes": 64,
+    "memory_peak_kb": 2.240234375,
+    "method": "hashchain",
+    "num_events": 10,
+    "proof_size_bytes": 32,
+    "seed": 7,
+    "throughput_eps": 28540.833279064358,
+    "trial": 0,
+    "verify_time_ms": 0.0639590434730053
+  },
+  {
+    "clean_verified": 1,
+    "commit_time_ms": 0.6941668689250946,
+    "commitment_size_bytes": 263,
+    "memory_peak_kb": 130.111328125,
+    "method": "signed_hashchain",
+    "num_events": 10,
+    "proof_size_bytes": 32,
+    "seed": 7,
+    "throughput_eps": 14405.758107535192,
+    "trial": 0,
+    "verify_time_ms": 0.3273340407758951
+  },
+  {
+    "clean_verified": 1,
+    "commit_time_ms": 1.137208892032504,
+    "commitment_size_bytes": 263,
+    "memory_peak_kb": 129.9091796875,
+    "method": "merkle_signed",
+    "num_events": 10,
+    "proof_size_bytes": 300,
+    "seed": 7,
+    "throughput_eps": 8793.459205306826,
+    "trial": 0,
+    "verify_time_ms": 0.370916910469532
+  }
+]

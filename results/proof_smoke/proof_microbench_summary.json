@@ -1,0 +1,47 @@
+[
+  {
+    "generation_time_ms_mean": 0.0,
+    "generation_time_ms_median": 0.0,
+    "new_size": 10,
+    "num_events": 10,
+    "old_size": 5,
+    "proof_hashes": 5,
+    "proof_payload_bytes_raw": 160,
+    "proof_size_bytes_json": 763,
+    "proof_type": "consistency_external",
+    "trials": 2,
+    "verification_time_ms_mean": 0.28070854023098946,
+    "verification_time_ms_median": 0.28070854023098946,
+    "verified_all": 1
+  },
+  {
+    "generation_time_ms_mean": 0.3464999608695507,
+    "generation_time_ms_median": 0.3464999608695507,
+    "new_size": 10,
+    "num_events": 10,
+    "old_size": 5,
+    "proof_hashes": 5,
+    "proof_payload_bytes_raw": 160,
+    "proof_size_bytes_json": 763,
+    "proof_type": "consistency_internal",
+    "trials": 2,
+    "verification_time_ms_mean": 0.07827102672308683,
+    "verification_time_ms_median": 0.07827102672308683,
+    "verified_all": 1
+  },
+  {
+    "generation_time_ms_mean": 0.06872904486954212,
+    "generation_time_ms_median": 0.06872904486954212,
+    "new_size": 10,
+    "num_events": 10,
+    "old_size": 0,
+    "proof_hashes": 4,
+    "proof_payload_bytes_raw": 128,
+    "proof_size_bytes_json": 300,
+    "proof_type": "inclusion",
+    "trials": 2,
+    "verification_time_ms_mean": 0.012125005014240742,
+    "verification_time_ms_median": 0.012125005014240742,
+    "verified_all": 1
+  }
+]

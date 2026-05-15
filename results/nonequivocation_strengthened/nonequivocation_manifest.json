@@ -1,0 +1,25 @@
+{
+  "environment": {
+    "cpu_count_logical": 8,
+    "cpu_model": "arm",
+    "filesystem_cwd": "/Users/phatttt/Documents/Claude/Projects/AuditMesh",
+    "machine": "arm64",
+    "platform": "macOS-26.4.1-arm64-arm-64bit-Mach-O",
+    "processor": "arm",
+    "python_version": "3.14.0",
+    "release": "25.4.0",
+    "storage_free_bytes": 22019616768,
+    "storage_total_bytes": 494384795648,
+    "system": "Darwin",
+    "timing_notes": "CPU-only Python wall-clock timings; storage device model and background load are not controlled."
+  },
+  "run_config": {
+    "dataset_format": "auditmesh_csv",
+    "event_source_path": "",
+    "num_events": 1024,
+    "run_id": "nonequivocation_strengthened",
+    "seed": 42,
+    "workload": "calibrated"
+  },
+  "scope": "Local two-auditor witness/gossip simulation over signed Merkle commitments. This detects observed split views and missing/invalid consistency edges, but it is not a production monitor network."
+}

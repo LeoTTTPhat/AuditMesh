@@ -1,0 +1,28 @@
+{
+  "checksums": {
+    "benchmark_results_csv_sha256": "a8d12a24debf26c38560659e771c59fd471019dea06a64739994fec0c5265366",
+    "benchmark_summary_json_sha256": "8b606b0f1b7c96d2219b318286e2424a0c50971ed802308859e4206b1c2541bd"
+  },
+  "environment": {
+    "cpu_count_logical": 8,
+    "cpu_model": "arm",
+    "filesystem_cwd": "/Users/phatttt/Documents/Claude/Projects/AuditMesh",
+    "machine": "arm64",
+    "platform": "macOS-26.4.1-arm64-arm-64bit-Mach-O",
+    "processor": "arm",
+    "python_version": "3.14.0",
+    "release": "25.4.0",
+    "storage_free_bytes": 22539304960,
+    "storage_total_bytes": 494384795648,
+    "system": "Darwin",
+    "timing_notes": "CPU-only Python wall-clock timings; storage device model and background load are not controlled."
+  },
+  "run_config": {
+    "dataset_format": "lanl_auth_simple",
+    "event_source_path": "/private/tmp/lanl-auth-dataset-1-00.bz2",
+    "num_events": 10000,
+    "run_id": "lanl_public_10k",
+    "seed": 42,
+    "workload": "public_log"
+  }
+}

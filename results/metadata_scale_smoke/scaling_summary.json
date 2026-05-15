@@ -1,0 +1,72 @@
+[
+  {
+    "clean_verified_all": 1,
+    "commit_time_ms_mean": 0.40562497451901436,
+    "commit_time_ms_median": 0.40562497451901436,
+    "commitment_size_bytes": 64,
+    "memory_peak_kb_median": 1.29296875,
+    "method": "csv",
+    "num_events": 10,
+    "proof_size_bytes": 0,
+    "throughput_eps_median": 24653.31433760431,
+    "trials": 1,
+    "verify_time_ms_mean": 0.056833960115909576,
+    "verify_time_ms_median": 0.056833960115909576
+  },
+  {
+    "clean_verified_all": 1,
+    "commit_time_ms_mean": 0.3503751941025257,
+    "commit_time_ms_median": 0.3503751941025257,
+    "commitment_size_bytes": 64,
+    "memory_peak_kb_median": 2.240234375,
+    "method": "hashchain",
+    "num_events": 10,
+    "proof_size_bytes": 32,
+    "throughput_eps_median": 28540.833279064358,
+    "trials": 1,
+    "verify_time_ms_mean": 0.0639590434730053,
+    "verify_time_ms_median": 0.0639590434730053
+  },
+  {
+    "clean_verified_all": 1,
+    "commit_time_ms_mean": 1.137208892032504,
+    "commit_time_ms_median": 1.137208892032504,
+    "commitment_size_bytes": 263,
+    "memory_peak_kb_median": 129.9091796875,
+    "method": "merkle_signed",
+    "num_events": 10,
+    "proof_size_bytes": 300,
+    "throughput_eps_median": 8793.459205306826,
+    "trials": 1,
+    "verify_time_ms_mean": 0.370916910469532,
+    "verify_time_ms_median": 0.370916910469532
+  },
+  {
+    "clean_verified_all": 1,
+    "commit_time_ms_mean": 10.396250057965517,
+    "commit_time_ms_median": 10.396250057965517,
+    "commitment_size_bytes": 264,
+    "memory_peak_kb_median": 128.7587890625,
+    "method": "signed_digest",
+    "num_events": 10,
+    "proof_size_bytes": 0,
+    "throughput_eps_median": 961.8852898154452,
+    "trials": 1,
+    "verify_time_ms_mean": 1.4635419938713312,
+    "verify_time_ms_median": 1.4635419938713312
+  },
+  {
+    "clean_verified_all": 1,
+    "commit_time_ms_mean": 0.6941668689250946,
+    "commit_time_ms_median": 0.6941668689250946,
+    "commitment_size_bytes": 263,
+    "memory_peak_kb_median": 130.111328125,
+    "method": "signed_hashchain",
+    "num_events": 10,
+    "proof_size_bytes": 32,
+    "throughput_eps_median": 14405.758107535192,
+    "trials": 1,
+    "verify_time_ms_mean": 0.3273340407758951,
+    "verify_time_ms_median": 0.3273340407758951
+  }
+]

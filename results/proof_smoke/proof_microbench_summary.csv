@@ -1,0 +1,4 @@
+proof_type,num_events,old_size,new_size,trials,proof_hashes,proof_size_bytes_json,proof_payload_bytes_raw,generation_time_ms_median,generation_time_ms_mean,verification_time_ms_median,verification_time_ms_mean,verified_all
+consistency_external,10,5,10,2,5,763,160,0.0,0.0,0.28070854023098946,0.28070854023098946,1
+consistency_internal,10,5,10,2,5,763,160,0.3464999608695507,0.3464999608695507,0.07827102672308683,0.07827102672308683,1
+inclusion,10,0,10,2,4,300,128,0.06872904486954212,0.06872904486954212,0.012125005014240742,0.012125005014240742,1

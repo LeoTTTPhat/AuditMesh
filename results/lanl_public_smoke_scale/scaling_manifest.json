@@ -1,0 +1,42 @@
+{
+  "environment": {
+    "cpu_count_logical": 8,
+    "cpu_model": "arm",
+    "filesystem_cwd": "/Users/phatttt/Documents/Claude/Projects/AuditMesh",
+    "machine": "arm64",
+    "platform": "macOS-26.4.1-arm64-arm-64bit-Mach-O",
+    "processor": "arm",
+    "python_version": "3.14.0",
+    "release": "25.4.0",
+    "storage_free_bytes": 22842851328,
+    "storage_total_bytes": 494384795648,
+    "system": "Darwin",
+    "timing_notes": "CPU-only Python wall-clock timings; storage device model and background load are not controlled."
+  },
+  "measurement_scope": {
+    "consistency_proof_microbenchmarks": true,
+    "full_log_scaling": true,
+    "inclusion_proof_microbenchmarks": true,
+    "multi_commitment_consistency_scaling": false,
+    "proof_microbenchmark_notes": "Inclusion benchmarks verify the middle event against a committed root. Consistency benchmarks use an old tree of floor(n/2) events and a new tree of n events; internal verification checks against the new event list, while external verification checks the signed proof object and key registry only. The artifact does not yet measure long-lived rolling logs or many successive consistency proofs over multi-commit trajectories."
+  },
+  "run_config": {
+    "dataset_format": "lanl_auth_simple",
+    "event_source_path": "data/public/lanl_auth_sample.csv",
+    "methods": [
+      "csv",
+      "signed_digest",
+      "hashchain",
+      "signed_hashchain",
+      "merkle_signed"
+    ],
+    "run_id": "lanl_public_smoke_scale",
+    "seed": 42,
+    "sizes": [
+      10,
+      20
+    ],
+    "trials": 3,
+    "workload": "public_log"
+  }
+}

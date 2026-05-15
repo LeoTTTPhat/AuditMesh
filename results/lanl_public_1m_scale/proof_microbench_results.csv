@@ -1,0 +1,4 @@
+proof_type,num_events,old_size,new_size,index,seed,trial,proof_hashes,proof_size_bytes_json,proof_payload_bytes_raw,generation_time_ms,verification_time_ms,verified
+inclusion,1000000,0,1000000,500000,42,0,20,1500,640,6196.567291161045,0.08566584438085556,1
+consistency_internal,1000000,500000,1000000,-1,42,0,16,1521,512,10018.712624907494,7508.261166978627,1
+consistency_external,1000000,500000,1000000,-1,42,0,16,1521,512,0.0,1.483833184465766,1

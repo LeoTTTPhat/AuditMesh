@@ -1,0 +1,47 @@
+[
+  {
+    "generation_time_ms": 6196.567291161045,
+    "index": 500000,
+    "new_size": 1000000,
+    "num_events": 1000000,
+    "old_size": 0,
+    "proof_hashes": 20,
+    "proof_payload_bytes_raw": 640,
+    "proof_size_bytes_json": 1500,
+    "proof_type": "inclusion",
+    "seed": 42,
+    "trial": 0,
+    "verification_time_ms": 0.08566584438085556,
+    "verified": 1
+  },
+  {
+    "generation_time_ms": 10018.712624907494,
+    "index": -1,
+    "new_size": 1000000,
+    "num_events": 1000000,
+    "old_size": 500000,
+    "proof_hashes": 16,
+    "proof_payload_bytes_raw": 512,
+    "proof_size_bytes_json": 1521,
+    "proof_type": "consistency_internal",
+    "seed": 42,
+    "trial": 0,
+    "verification_time_ms": 7508.261166978627,
+    "verified": 1
+  },
+  {
+    "generation_time_ms": 0.0,
+    "index": -1,
+    "new_size": 1000000,
+    "num_events": 1000000,
+    "old_size": 500000,
+    "proof_hashes": 16,
+    "proof_payload_bytes_raw": 512,
+    "proof_size_bytes_json": 1521,
+    "proof_type": "consistency_external",
+    "seed": 42,
+    "trial": 0,
+    "verification_time_ms": 1.483833184465766,
+    "verified": 1
+  }
+]

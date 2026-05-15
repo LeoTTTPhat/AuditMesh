@@ -1,0 +1,16 @@
+[
+  {
+    "digest_vs_merkle_json_ratio": 82053.99571865443,
+    "full_log_disclosure_bytes": 134158283,
+    "hashchain_prefix_disclosure_bytes": 66688037,
+    "hashchain_prefix_vs_merkle_json_ratio": 40787.79021406728,
+    "index": 500000,
+    "merkle_proof_bytes_json": 1500,
+    "merkle_proof_payload_bytes_raw": 640,
+    "merkle_selective_disclosure_bytes_json": 1635,
+    "merkle_selective_disclosure_bytes_raw": 775,
+    "num_events": 1000000,
+    "seed": 42,
+    "selected_event_bytes": 135
+  }
+]

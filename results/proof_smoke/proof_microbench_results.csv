@@ -1,0 +1,7 @@
+proof_type,num_events,old_size,new_size,index,seed,trial,proof_hashes,proof_size_bytes_json,proof_payload_bytes_raw,generation_time_ms,verification_time_ms,verified
+inclusion,10,0,10,5,7,0,4,300,128,0.06620795466005802,0.01400010660290718,1
+consistency_internal,10,5,10,-1,7,0,5,763,160,0.34149992279708385,0.07924996316432953,1
+consistency_external,10,5,10,-1,7,0,5,763,160,0.0,0.2968751359730959,1
+inclusion,10,0,10,5,7,1,4,300,128,0.07125013507902622,0.010249903425574303,1
+consistency_internal,10,5,10,-1,7,1,5,763,160,0.35149999894201756,0.07729209028184414,1
+consistency_external,10,5,10,-1,7,1,5,763,160,0.0,0.264541944488883,1

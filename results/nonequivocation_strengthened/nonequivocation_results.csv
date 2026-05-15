@@ -1,0 +1,4 @@
+scenario,auditors,observed_commitments,signed_consistency_proofs,findings,finding_types,detected_non_equivocation_violation
+honest_shared_append,2,2,1,0,none,0
+same_size_split_view,2,2,0,1,same_size_split_view,1
+unlinked_divergent_extension,2,2,0,1,missing_or_invalid_consistency,1

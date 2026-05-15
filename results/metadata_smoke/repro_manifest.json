@@ -1,0 +1,26 @@
+{
+  "checksums": {
+    "benchmark_results_csv_sha256": "2b7b04842d5ec76307902a4a140d771a4bd42c5806707bfff9167a9aa6343ff9",
+    "benchmark_summary_json_sha256": "7f6de7acb5279c523c09db62d5b1b9f10bdf75ebcf138f70b649a82877fd1beb"
+  },
+  "environment": {
+    "cpu_count_logical": 8,
+    "cpu_model": "arm",
+    "filesystem_cwd": "/Users/phatttt/Documents/Claude/Projects/AuditMesh",
+    "machine": "arm64",
+    "platform": "macOS-26.4.1-arm64-arm-64bit-Mach-O",
+    "processor": "arm",
+    "python_version": "3.14.0",
+    "release": "25.4.0",
+    "storage_free_bytes": 23095287808,
+    "storage_total_bytes": 494384795648,
+    "system": "Darwin",
+    "timing_notes": "CPU-only Python wall-clock timings; storage device model and background load are not controlled."
+  },
+  "run_config": {
+    "num_events": 10,
+    "run_id": "metadata_smoke",
+    "seed": 7,
+    "workload": "calibrated"
+  }
+}

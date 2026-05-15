@@ -1,0 +1,29 @@
+[
+  {
+    "auditors": 2,
+    "detected_non_equivocation_violation": 0,
+    "finding_types": "none",
+    "findings": 0,
+    "observed_commitments": 2,
+    "scenario": "honest_shared_append",
+    "signed_consistency_proofs": 1
+  },
+  {
+    "auditors": 2,
+    "detected_non_equivocation_violation": 1,
+    "finding_types": "same_size_split_view",
+    "findings": 1,
+    "observed_commitments": 2,
+    "scenario": "same_size_split_view",
+    "signed_consistency_proofs": 0
+  },
+  {
+    "auditors": 2,
+    "detected_non_equivocation_violation": 1,
+    "finding_types": "missing_or_invalid_consistency",
+    "findings": 1,
+    "observed_commitments": 2,
+    "scenario": "unlinked_divergent_extension",
+    "signed_consistency_proofs": 0
+  }
+]

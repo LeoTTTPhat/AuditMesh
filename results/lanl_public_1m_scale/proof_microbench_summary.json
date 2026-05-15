@@ -1,0 +1,47 @@
+[
+  {
+    "generation_time_ms_mean": 0.0,
+    "generation_time_ms_median": 0.0,
+    "new_size": 1000000,
+    "num_events": 1000000,
+    "old_size": 500000,
+    "proof_hashes": 16,
+    "proof_payload_bytes_raw": 512,
+    "proof_size_bytes_json": 1521,
+    "proof_type": "consistency_external",
+    "trials": 1,
+    "verification_time_ms_mean": 1.483833184465766,
+    "verification_time_ms_median": 1.483833184465766,
+    "verified_all": 1
+  },
+  {
+    "generation_time_ms_mean": 10018.712624907494,
+    "generation_time_ms_median": 10018.712624907494,
+    "new_size": 1000000,
+    "num_events": 1000000,
+    "old_size": 500000,
+    "proof_hashes": 16,
+    "proof_payload_bytes_raw": 512,
+    "proof_size_bytes_json": 1521,
+    "proof_type": "consistency_internal",
+    "trials": 1,
+    "verification_time_ms_mean": 7508.261166978627,
+    "verification_time_ms_median": 7508.261166978627,
+    "verified_all": 1
+  },
+  {
+    "generation_time_ms_mean": 6196.567291161045,
+    "generation_time_ms_median": 6196.567291161045,
+    "new_size": 1000000,
+    "num_events": 1000000,
+    "old_size": 0,
+    "proof_hashes": 20,
+    "proof_payload_bytes_raw": 640,
+    "proof_size_bytes_json": 1500,
+    "proof_type": "inclusion",
+    "trials": 1,
+    "verification_time_ms_mean": 0.08566584438085556,
+    "verification_time_ms_median": 0.08566584438085556,
+    "verified_all": 1
+  }
+]

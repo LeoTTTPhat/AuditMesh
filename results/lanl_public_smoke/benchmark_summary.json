@@ -1,0 +1,57 @@
+{
+  "csv": {
+    "avg_artifact_overhead_ratio": 1.1636828644501278,
+    "avg_attacked_log_size_bytes": 385.375,
+    "avg_commit_time_ms": 0.37587503902614117,
+    "avg_commitment_size_bytes": 64.0,
+    "avg_memory_peak_kb": 1.2607421875,
+    "avg_proof_size_bytes": 0.0,
+    "avg_throughput_eps": 26604.586529366545,
+    "avg_verification_latency_ms": 0.04839577013626695,
+    "tamper_detection_rate": 1.0
+  },
+  "hashchain": {
+    "avg_artifact_overhead_ratio": 1.2455242966751918,
+    "avg_attacked_log_size_bytes": 385.375,
+    "avg_commit_time_ms": 0.3399169072508812,
+    "avg_commitment_size_bytes": 64.0,
+    "avg_memory_peak_kb": 2.2177734375,
+    "avg_proof_size_bytes": 32.0,
+    "avg_throughput_eps": 29418.95441705504,
+    "avg_verification_latency_ms": 0.18735439516603947,
+    "tamper_detection_rate": 1.0
+  },
+  "merkle_signed": {
+    "avg_artifact_overhead_ratio": 2.4398976982097187,
+    "avg_attacked_log_size_bytes": 385.375,
+    "avg_commit_time_ms": 1.0952919255942106,
+    "avg_commitment_size_bytes": 263.0,
+    "avg_memory_peak_kb": 129.9091796875,
+    "avg_proof_size_bytes": 300.0,
+    "avg_throughput_eps": 9129.986048764913,
+    "avg_verification_latency_ms": 0.2373905444983393,
+    "tamper_detection_rate": 1.0
+  },
+  "signed_digest": {
+    "avg_artifact_overhead_ratio": 1.6751918158567776,
+    "avg_attacked_log_size_bytes": 385.375,
+    "avg_commit_time_ms": 6.66954112239182,
+    "avg_commitment_size_bytes": 264.0,
+    "avg_memory_peak_kb": 128.7587890625,
+    "avg_proof_size_bytes": 0.0,
+    "avg_throughput_eps": 1499.3535262008875,
+    "avg_verification_latency_ms": 0.16672397032380104,
+    "tamper_detection_rate": 1.0
+  },
+  "signed_hashchain": {
+    "avg_artifact_overhead_ratio": 1.7544757033248082,
+    "avg_attacked_log_size_bytes": 385.375,
+    "avg_commit_time_ms": 2.138958079740405,
+    "avg_commitment_size_bytes": 263.0,
+    "avg_memory_peak_kb": 130.041015625,
+    "avg_proof_size_bytes": 32.0,
+    "avg_throughput_eps": 4675.173438281526,
+    "avg_verification_latency_ms": 0.20040644449181855,
+    "tamper_detection_rate": 1.0
+  }
+}
