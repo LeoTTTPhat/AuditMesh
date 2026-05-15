@@ -1,0 +1,44 @@
+[
+  {
+    "digest_vs_merkle_json_ratio": 165.41935483870967,
+    "full_log_disclosure_bytes": 148712,
+    "hashchain_prefix_disclosure_bytes": 74399,
+    "hashchain_prefix_vs_merkle_json_ratio": 82.75750834260289,
+    "index": 500,
+    "merkle_proof_bytes_json": 750,
+    "merkle_proof_payload_bytes_raw": 320,
+    "merkle_selective_disclosure_bytes_json": 899,
+    "merkle_selective_disclosure_bytes_raw": 469,
+    "num_events": 1000,
+    "seed": 42,
+    "selected_event_bytes": 149
+  },
+  {
+    "digest_vs_merkle_json_ratio": 1248.2910758965804,
+    "full_log_disclosure_bytes": 1496701,
+    "hashchain_prefix_disclosure_bytes": 747700,
+    "hashchain_prefix_vs_merkle_json_ratio": 623.603002502085,
+    "index": 5000,
+    "merkle_proof_bytes_json": 1050,
+    "merkle_proof_payload_bytes_raw": 448,
+    "merkle_selective_disclosure_bytes_json": 1199,
+    "merkle_selective_disclosure_bytes_raw": 597,
+    "num_events": 10000,
+    "seed": 42,
+    "selected_event_bytes": 149
+  },
+  {
+    "digest_vs_merkle_json_ratio": 10572.941754385965,
+    "full_log_disclosure_bytes": 15066442,
+    "hashchain_prefix_disclosure_bytes": 7527896,
+    "hashchain_prefix_vs_merkle_json_ratio": 5282.734035087719,
+    "index": 50000,
+    "merkle_proof_bytes_json": 1275,
+    "merkle_proof_payload_bytes_raw": 544,
+    "merkle_selective_disclosure_bytes_json": 1425,
+    "merkle_selective_disclosure_bytes_raw": 694,
+    "num_events": 100000,
+    "seed": 42,
+    "selected_event_bytes": 150
+  }
+]

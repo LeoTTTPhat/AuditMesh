@@ -1,0 +1,4 @@
+num_events,index,seed,selected_event_bytes,full_log_disclosure_bytes,hashchain_prefix_disclosure_bytes,merkle_proof_bytes_json,merkle_proof_payload_bytes_raw,merkle_selective_disclosure_bytes_json,merkle_selective_disclosure_bytes_raw,digest_vs_merkle_json_ratio,hashchain_prefix_vs_merkle_json_ratio
+1000,500,42,149,148712,74399,750,320,899,469,165.41935483870967,82.75750834260289
+10000,5000,42,149,1496701,747700,1050,448,1199,597,1248.2910758965804,623.603002502085
+100000,50000,42,150,15066442,7527896,1275,544,1425,694,10572.941754385965,5282.734035087719

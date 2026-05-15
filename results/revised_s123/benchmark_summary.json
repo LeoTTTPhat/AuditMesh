@@ -1,0 +1,35 @@
+{
+  "csv": {
+    "avg_artifact_overhead_ratio": 1.0011295247171776,
+    "avg_attacked_log_size_bytes": 56410.5,
+    "avg_commit_time_ms": 28.1317918561399,
+    "avg_commitment_size_bytes": 64.0,
+    "avg_memory_peak_kb": 333.0341796875,
+    "avg_proof_size_bytes": 0.0,
+    "avg_throughput_eps": 35546.971380770585,
+    "avg_verification_latency_ms": 4.274333361536264,
+    "tamper_detection_rate": 1.0
+  },
+  "hashchain": {
+    "avg_artifact_overhead_ratio": 1.0016942870757664,
+    "avg_attacked_log_size_bytes": 56410.5,
+    "avg_commit_time_ms": 30.74354096315801,
+    "avg_commitment_size_bytes": 64.0,
+    "avg_memory_peak_kb": 112.2392578125,
+    "avg_proof_size_bytes": 32.0,
+    "avg_throughput_eps": 32527.15753199559,
+    "avg_verification_latency_ms": 4.785921890288591,
+    "tamper_detection_rate": 1.0
+  },
+  "merkle_signed": {
+    "avg_artifact_overhead_ratio": 1.0179135560614885,
+    "avg_attacked_log_size_bytes": 56410.5,
+    "avg_commit_time_ms": 67.95008294284344,
+    "avg_commitment_size_bytes": 265.0,
+    "avg_memory_peak_kb": 239.8916015625,
+    "avg_proof_size_bytes": 750.0,
+    "avg_throughput_eps": 14716.68549457335,
+    "avg_verification_latency_ms": 5.611661385046318,
+    "tamper_detection_rate": 1.0
+  }
+}

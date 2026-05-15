@@ -1,0 +1,15 @@
+{
+  "checksums": {
+    "benchmark_results_csv_sha256": "24b9716a66a9a7bf8269724c0c9a63f5ac3638893cf73166d00fafb3fdc62b4f",
+    "benchmark_summary_json_sha256": "c4e4a7ca8dfe1c1fd09749cc5124eb682952d94d2776dbef71442365667c99fa"
+  },
+  "environment": {
+    "platform": "macOS-26.4.1-arm64-arm-64bit-Mach-O",
+    "python_version": "3.14.0"
+  },
+  "run_config": {
+    "num_events": 1000,
+    "run_id": "revised_s999",
+    "seed": 999
+  }
+}
